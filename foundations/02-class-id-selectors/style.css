@@ -1,0 +1,19 @@
+.pinky{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#beta{
+    color: blue;
+    font-size: 36px;
+}
+
+#gama{
+    font-size: 24px;
+}
+
+#omega{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
